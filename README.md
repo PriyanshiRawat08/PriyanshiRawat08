@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Artificial Intelligence ,Machine Learning Models**
 
-- 📫 How to reach me **rawatpriyanshi8324@gmail.com**
+- 📫 How to reach me **priyanshirawatpr08@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
