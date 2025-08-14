@@ -10,9 +10,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/PriyanshiRawat08](https://github.com/PriyanshiRawat08)
 
-- 💬 Ask me about **Artificial Intelligence ,Machine Learning Models**
+- 💬 Ask me about **Artificial Intelligence, Machine Learning Models**
 
-- 📫 How to reach me **priyanshirawatpr08@gmail.com**
+- 📫 How to reach me **rawatpriyanshi8324@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
