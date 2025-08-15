@@ -1,4 +1,4 @@
-![logo](https://github.com/PriyanshiRawat08/PriyanshiRawat08/blob/main/Banner.jpg)
+![logo](https://github.com/PriyanshiRawat08/PriyanshiRawat08/blob/main/Banner.jpeg)
 <h1 align="center">Hi 👋, I'm Priyanshi Rawat</h1>
 <h3 align="center">A passionate Software Developer </h3>
 
