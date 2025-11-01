@@ -18,11 +18,15 @@
 
 - 📫 How to reach me **rawatpriyanshi8324@gmail.com**
 
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/priyanshirawat08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshirawat08" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/priyanshirawat0202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyanshirawat0202" height="30" width="40" /></a>
 </p>
+
+---
 
 ### 🧠 My Digital Toolkit
 
@@ -32,6 +36,8 @@
 | **AI & ML** | Flask, TensorFlow, Scikit-learn, Pandas, NumPy, OpenAI, Natural Language Processing (NLP) |
 | **Tools** | Git, GitHub, Jupyter Notebook, Kaggle |
 | **FrontEnd** | HTML, CSS, JavaScript|
+
+---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshirawat08&show_icons=true&locale=en&layout=compact" alt="priyanshirawat08" /></p>
 
